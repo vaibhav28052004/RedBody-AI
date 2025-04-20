@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CodeFlex AI - Get Ripped",
+  title: "RedBody AI - Get Ripped",
   description: "Modern Fitness AI Platform",
 };
 
